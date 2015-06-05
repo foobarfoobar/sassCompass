@@ -10,7 +10,7 @@ $default-text-color: $black !default;
  * and $rhythm-unit variables. Also, correct text resizing oddly in IE 6/7 when
  * body `font-size` is set using `em` units.
  */
-/* line 106, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 106, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 100%;
   line-height: 1.5em;
@@ -1033,27 +1033,27 @@ article p:nth-child(2) {
   background-repeat: no-repeat;
 }
 
-/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/sprites/_base.scss */
 .icons-clock {
   background-position: 0 0;
 }
 
-/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/sprites/_base.scss */
 .icons-clock1 {
   background-position: 0 -32px;
 }
 
-/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/sprites/_base.scss */
 .icons-diary {
   background-position: 0 -236px;
 }
 
-/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/sprites/_base.scss */
 .icons-printer {
   background-position: 0 -440px;
 }
 
-/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+/* line 84, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/sprites/_base.scss */
 .icons-weather {
   background-position: 0 -644px;
 }
@@ -1086,85 +1086,85 @@ article p:nth-child(2) {
   border: 4px solid #001A57;
   width: 400px;
 }
-/* line 2, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+/* line 2, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
 .baseball-stats table th {
   text-align: center;
   font-weight: bold;
 }
-/* line 5, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+/* line 5, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
 .baseball-stats table td,
 .baseball-stats table th {
   padding: 2px;
 }
-/* line 8, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
+/* line 8, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_scaffolding.scss */
 .baseball-stats table td.numeric,
 .baseball-stats table th.numeric {
   text-align: right;
 }
-/* line 16, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 16, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table th, .baseball-stats table td {
   border-right: 4px solid #000000;
   border-bottom: 4px solid #000000;
   border-left-width: 0;
   border-top-width: 0;
 }
-/* line 22, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 22, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table th:last-child, .baseball-stats table td:last-child {
   border-right-width: 0;
 }
-/* line 28, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 28, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table th.last, .baseball-stats table td.last {
   border-right-width: 0;
 }
-/* line 33, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 33, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table tbody tr:last-child th, .baseball-stats table tbody tr:last-child td, .baseball-stats table tfoot tr:last-child th, .baseball-stats table tfoot tr:last-child td {
   border-bottom-width: 0;
 }
-/* line 37, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 37, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table tbody tr.last th, .baseball-stats table tbody tr.last td, .baseball-stats table tfoot tr.last th, .baseball-stats table tfoot tr.last td {
   border-bottom-width: 0;
 }
-/* line 6, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 6, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table thead th {
   border-bottom: 4px solid #001A57;
 }
-/* line 9, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 9, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table tfoot th, .baseball-stats table tfoot td {
   border-top: 4px solid #001A57;
 }
-/* line 12, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_borders.scss */
+/* line 12, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_borders.scss */
 .baseball-stats table th:first-child {
   border-right: 4px solid #001A57;
 }
-/* line 2, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 2, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table th {
   background-color: #FFFFFF;
 }
-/* line 4, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 4, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table th.even, .baseball-stats table th:nth-child(2n) {
   background-color: white;
 }
-/* line 8, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 8, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table tr.odd td, .baseball-stats table tr:nth-child(2n+1) td {
   background-color: #B2BEB5;
 }
-/* line 10, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 10, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table tr.odd td.even, .baseball-stats table tr.odd td:nth-child(2n), .baseball-stats table tr:nth-child(2n+1) td.even, .baseball-stats table tr:nth-child(2n+1) td:nth-child(2n) {
   background-color: #b2beb5;
 }
-/* line 14, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 14, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table tr.even td {
   background-color: #F0F8FF;
 }
-/* line 16, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 16, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table tr.even td.even, .baseball-stats table tr.even td:nth-child(2n) {
   background-color: aliceblue;
 }
-/* line 19, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 19, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table tfoot th, .baseball-stats table tfoot td {
   background-color: white;
 }
-/* line 21, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
+/* line 21, ../../../../../RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/compass-core-1.1.0.alpha.3/stylesheets/compass/utilities/tables/_alternating-rows-and-columns.scss */
 .baseball-stats table tfoot th.even, .baseball-stats table tfoot th:nth-child(2n), .baseball-stats table tfoot td.even, .baseball-stats table tfoot td:nth-child(2n) {
   background-color: white;
 }
